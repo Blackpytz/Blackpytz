@@ -1,8 +1,8 @@
 - 👋 Hi there...
-- 👀 I’m currently a student of the ALX program
-- 🌱 I’m currently learning how to learn as a seasoned software engineer
+- 😎 I’m currently a student of the ALX program
+- 🌱 I’m currently learning how to learn
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me theophiluschikezie@gmail.com
 
 <!---
 Blackpytz/Blackpytz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
