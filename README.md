@@ -1,4 +1,4 @@
-https://tenor.com/bF67T.gif
+<div class="tenor-gif-embed" data-postid="22391159" data-share-method="host" data-aspect-ratio="2.80702" data-width="100%"><a href="https://tenor.com/view/banner-welcome-gif-22391159">Banner Welcome GIF</a>from <a href="https://tenor.com/search/banner+welcome-gifs">Banner Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 😎 I’m currently a student of the ALX program
 - 🌱 I’m currently learning how to learn
 - 💞️ I’m looking to collaborate on 
