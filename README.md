@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to learn
 # ☔ How to reach me...
 -  📫 Email: theophiluschikezie@gmail.com
--  🐦 Twitter: @Reid_Chikezie
--  ℹ️ LinkedIn: 
+-  🐦 Twitter: @ReidChikezie
+-  ℹ️ LinkedIn: https://www.linkedin.com/in/reid-chikezie-832519244
 
 - ![Blackpytz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackpytz&theme=great-gatsby&show_icons=true)
 
