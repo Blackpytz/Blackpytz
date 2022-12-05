@@ -1,4 +1,4 @@
-- 👋 Hi there...
+https://tenor.com/bF67T.gif
 - 😎 I’m currently a student of the ALX program
 - 🌱 I’m currently learning how to learn
 - 💞️ I’m looking to collaborate on 
