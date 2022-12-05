@@ -1,8 +1,6 @@
-
-
+- 👋 Hi. i'm Reid Chikezie
 - 😎 I’m currently a student of the ALX program
 - 🌱 I’m currently learning how to learn
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me theophiluschikezie@gmail.com
 
 ![Blackpytz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackpytz&theme=dark&show_icons=true)
