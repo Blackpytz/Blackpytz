@@ -4,11 +4,11 @@
 - ⚡ I’m an ALX student (Force adept) and full stack engineer 
 <img src="./star-wars-fighting.gif" alt="Force-Sensitive gif" />
 
-- 🌱 I’m currently learning how to wield a lightsaber 
+- 🌱 I’m currently learning how to wield a lightsaber
 ## ☔ How to reach me...
 -  📫 Email: theophiluschikezie@gmail.com
--  🐦 Twitter: @ReidChikezie
--  ℹ️ LinkedIn: [@Reidchikezie](https://www.linkedin.com/in/reid-chikezie-832519244)
+-  🐦 Twitter: [@ReidChikezie](https://twitter.com/ReidChikezie?t=p4GBb6Z68r0Ytg2DGwZoKA&s=09)
+-  ℹ️ LinkedIn: [@ReidChikezie](https://www.linkedin.com/in/reid-chikezie-832519244)
 
 - ![Blackpytz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackpytz&theme=great-gatsby&show_icons=true)
 
