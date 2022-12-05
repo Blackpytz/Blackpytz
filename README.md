@@ -1,7 +1,9 @@
 <img src="./banner-welcome.gif" alt="Welcome gif" />
 
 # 👋 Hi. I'm Reid Chikezie
-- ⚡ I’m an ALX adept and full stack engineer
+- ⚡ I’m an ALX adept and full stack engineer 
+<img src="./starwars-fighting.gif" alt="Force-Sensitive gif" />
+
 - 🌱 I’m currently learning how to learn
 ## ☔ How to reach me...
 -  📫 Email: theophiluschikezie@gmail.com
