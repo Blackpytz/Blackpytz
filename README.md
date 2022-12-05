@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to learn
 - 📫 How to reach me theophiluschikezie@gmail.com
 
-![Blackpytz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackpytz&theme=dark&show_icons=true)
+![Blackpytz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackpytz&theme=great-gatsby&show_icons=true)
 
 
 
