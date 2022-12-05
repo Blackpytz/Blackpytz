@@ -1,10 +1,10 @@
 <img src="./banner-welcome.gif" alt="Welcome gif" />
 
 # 👋 Hi. I'm Reid Chikezie 
-- ⚡ I’m an ALX student || Force adept and full stack engineer 
+- ⚡ I’m an ALX student (Force adept) and full stack engineer 
 <img src="./star-wars-fighting.gif" alt="Force-Sensitive gif" />
 
-- 🌱 I’m currently learning how to learn
+- 🌱 I’m currently learning how to wield a lightsaber 
 ## ☔ How to reach me...
 -  📫 Email: theophiluschikezie@gmail.com
 -  🐦 Twitter: @ReidChikezie
