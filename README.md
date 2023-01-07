@@ -2,8 +2,8 @@
 
 # 👋 Hi. I'm Reid Chikezie
 - ⚡ I’m an ALX student and full stack engineer  
-- 🌱 I’m currently learning how to wield a lightsaber
-<img src="./star-wars-fighting.gif" alt="Force-Sensitive gif" />
+- 🌱 I’m currently learning C Programming Language
+
 
 ## ☔ How to reach me...
 -  📫 Email: theophiluschikezie@gmail.com
