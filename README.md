@@ -2,7 +2,7 @@
 
 # 👋 Hi. I'm Reid Chikezie
 - ⚡ I’m an ALX student and full stack engineer  
-- 🌱 I’m currently learning C Programming Language
+- 🌱 I’m currently learning Python Programming Language
 
 
 ## ☔ How to reach me...
