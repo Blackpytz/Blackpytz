@@ -1,7 +1,7 @@
 <img src="./banner-welcome.gif" alt="Welcome gif" />
 
 ## 👋 Hi. I'm Red Chikezie
-- ⚡ I’m an ALX student and forntend engineer 
+- ⚡ I’m a forntend engineer and UI/UX designer
 - 🌱 I’m currently learning Python Programming Language
 
 
